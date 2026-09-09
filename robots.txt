@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nella-dev08.github.io/RSM-/sitemap.xml
